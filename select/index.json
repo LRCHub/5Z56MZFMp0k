@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Discord",
+  "base_artist": "The Living Tombstone & Eurobeat Brony",
+  "createdAt": "2026-01-14T03:12:04.659278Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A Winter's Discord",
+      "artist": "Aereogramme",
+      "has_synced": true,
+      "path": "select/01_A_Winter's_Discord_Aereogramme.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Discord",
+      "artist": "After Forever",
+      "has_synced": false,
+      "path": "select/02_Discord_After_Forever.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "DISCORD",
+      "artist": "TRiDENT",
+      "has_synced": true,
+      "path": "select/03_DISCORD_TRiDENT.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sow The Seeds Of Discord - Remastered Version",
+      "artist": "Sodom",
+      "has_synced": false,
+      "path": "select/04_Sow_The_Seeds_Of_Discord_-_Remastered_Version_Sodom.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sow The Seeds Of Discord (Remastered Version)",
+      "artist": "Sodom",
+      "has_synced": false,
+      "path": "select/05_Sow_The_Seeds_Of_Discord_(Remastered_Version)_Sodom.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Discord (feat. Eurobeat Brony)",
+      "artist": "The Living Tombstone feat. Eurobeat Brony",
+      "has_synced": true,
+      "path": "select/06_Discord_(feat._Eurobeat_Brony)_The_Living_Tombstone_feat._Eurobeat_Brony.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Discord",
+      "artist": "The Living Tombstone, Eurobeat Brony",
+      "has_synced": true,
+      "path": "select/07_Discord_The_Living_Tombstone,_Eurobeat_Brony.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dancer in the Discord",
+      "artist": "神崎エルザ feat. ReoNa",
+      "has_synced": true,
+      "path": "select/08_Dancer_in_the_Discord_神崎エルザ_feat._ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dancer in the Discord",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/09_Dancer_in_the_Discord_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Discord",
+      "artist": "Yasunori Nishiki",
+      "has_synced": false,
+      "path": "select/10_Discord_Yasunori_Nishiki.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Discord",
+      "artist": "OmenXiii",
+      "has_synced": true,
+      "path": "select/11_Discord_OmenXiii.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Discord (feat. Eurobeat Brony) [Instrumental]",
+      "artist": "The Living Tombstone",
+      "has_synced": true,
+      "path": "select/12_Discord_(feat._Eurobeat_Brony)_[Instrumental]_The_Living_Tombstone.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Discord (feat. Eurobeat Brony)",
+      "artist": "The Living Tombstone",
+      "has_synced": true,
+      "path": "select/13_Discord_(feat._Eurobeat_Brony)_The_Living_Tombstone.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Coma Black: Eden Eye / The Apple of Discord",
+      "artist": "Marilyn Manson",
+      "has_synced": true,
+      "path": "select/14_Coma_Black__Eden_Eye___The_Apple_of_Discord_Marilyn_Manson.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Coma Black: A) Eden Eye / B) The Apple of Discord",
+      "artist": "Marilyn Manson",
+      "has_synced": true,
+      "path": "select/15_Coma_Black__A)_Eden_Eye___B)_The_Apple_of_Discord_Marilyn_Manson.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Dancer in the Discord",
+      "artist": "神崎エルザ/ReoNa",
+      "has_synced": true,
+      "path": "select/16_Dancer_in_the_Discord_神崎エルザ_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Discord - Instrumental",
+      "artist": "The Living Tombstone/Eurobeat Brony",
+      "has_synced": true,
+      "path": "select/17_Discord_-_Instrumental_The_Living_Tombstone_Eurobeat_Brony.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Discord",
+      "artist": "The Living Tombstone & Eurobeat Brony",
+      "has_synced": false,
+      "path": "select/pl_01_Discord_The_Living_Tombstone_&_Eurobeat_Brony.txt"
+    }
+  ]
+}
